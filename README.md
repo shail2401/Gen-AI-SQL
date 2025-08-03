@@ -24,13 +24,25 @@ This project allows users to ask questions in plain English and receive database
 ```
 Gen-AI-SQL-Assistant/
 ├── app.py # Main app logic
-├── sql_chain.py # LangChain SQL chain setup
-├── chinook.db # Sample SQLite database
+├── sql_chain.py 
+├── chinook.db 
 ├── .env # Environment variables ( API key)
-├── requirements.txt # Project dependencies
+├── requirements.txt 
 ├── utils/
-│ └── db_loader.py # DB connection helper
+│ └── db_loader.py 
 ├── sql_chain/
-│ └── init.py # SQL agent logic
+│ └── init.py 
 └── .gitignore
 ```
+---
+
+##  Dataset
+This project uses the Chinook Database, a sample music store DB featuring customers, invoices, artists, albums, and tracks
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+Includes data from the Chinook Database, which is also provided under the MIT License.
