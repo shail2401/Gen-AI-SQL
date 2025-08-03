@@ -1,0 +1,6 @@
+langchain
+google-generativeai
+sqlalchemy
+python-dotenv
+streamlit
+
