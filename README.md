@@ -18,7 +18,7 @@ This project allows users to ask questions in plain English and receive database
 - SQLite (Chinook DB)  
 - Python
 
----
+
 
 ## Project Structure
 ```
@@ -34,12 +34,12 @@ Gen-AI-SQL-Assistant/
 │ └── init.py 
 └── .gitignore
 ```
----
+
 
 ##  Dataset
 This project uses the Chinook Database, a sample music store DB featuring customers, invoices, artists, albums, and tracks
 
----
+
 
 ## License
 
