@@ -1,6 +1,6 @@
 # GenAI SQL Assistant
 
-Natural language SQL querying powered by **Google PaLM**, **LangChain**, and the **Chinook** sample database.
+GenAI SQL Assistant is an end-to-end large language model (LLM) project powered by Google PaLM and LangChain. It allows users to interact with structured databases using natural language—no SQL expertise required. By combining the capabilities of generative AI and real-time database querying, the tool translates user prompts into executable SQL, enabling fast and intuitive access to business insights. This solution bridges the gap between non-technical users and data, making advanced analytics accessible through conversational AI.
 
 
 
